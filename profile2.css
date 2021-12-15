@@ -1,0 +1,75 @@
+#header{
+    background-color: rgb(66, 62, 62);
+    height: 30%;   
+    color: wheat;
+    
+}
+
+
+.nav{
+     color :rgb(17, 16, 16);
+     margin-left: 2%;
+     float:left;
+     font-weight: bold;
+     
+}
+#image
+{
+    height:100px;
+    width:25%;
+    margin-left: 20%;
+    float:left
+
+}
+
+a{
+    text-decoration: none;
+    color:rgb(220, 220, 221) !important;
+}
+.skill
+{ 
+   
+    margin-top:10%;
+    align-content: center;
+    font-size:large;
+    width: 100%;
+    color:rgb(14, 11, 11);
+    
+}
+
+.contact
+{   
+    margin-top:10%;
+    text-align: center;
+    font-size:large;
+    width: 100%;
+    color:rgb(14, 11, 11);
+    
+}
+#details
+{
+    color :white;
+}
+
+#details>a{
+    text-decoration: none;
+    color: rgb(17, 17, 49) !important;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.simage
+{
+    width:10%;
+    height:20%
+}
+
+#footer{
+    color:white;
+    background-color:rgb(59, 59, 61);
+    height:40px;
+    text-align: center;
+    margin-top: 5%;    
+    
+}
+
