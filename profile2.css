@@ -61,9 +61,34 @@ a{
 .simage
 {
     width:10%;
-    height:20%
+    height:20%;
+    margin-left: 7%;
 }
 
+.app1{
+    margin-bottom: 10%;
+    margin-top: 7%;
+}
+
+.desc1{
+    float: left;
+    width:50%;
+    
+}
+.desc2{
+    float: right;
+    width:50%;
+    margin-top: 5%;
+}
+.desc1> a ,.desc2 > a{
+    text-decoration: none;
+    color: black !important;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium';
+}
+
+
+  
 #footer{
     color:white;
     background-color:rgb(59, 59, 61);
